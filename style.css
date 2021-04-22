@@ -1,0 +1,91 @@
+#myCarousel{
+    background-color: beige;
+}
+
+#myCarousel img{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: #44281d;
+    font-size: 20px;
+}
+
+p{
+    font-family: 'Mountains of Christmas', cursive;
+}
+
+h2{
+     font-family: 'Mountains of Christmas', cursive;
+}
+h4{
+     font-family: 'Mountains of Christmas', cursive;
+}
+.body{
+    color: beige;
+    background-color: #44281d;
+}
+.txt{
+   font-family: 'Mountains of Christmas', cursive; 
+}
+#body{
+    background-color: beige;
+}
+.container{
+  margin-top: 30px;  
+}
+.im{
+    height: 300px;
+    width: 400px;
+    margin-left: 10px;
+    margin-right: 10px;
+     
+}
+.flee{
+    display: flex;
+    justify-content: center;
+}
+.taaxt{
+    font-family: 'Mountains of Christmas', cursive; 
+    color: beige;
+}
+.bak{
+   background-color: black;
+    padding-top: 25px;
+}
+.baak{
+    background-color: beige;
+}
+#bakk{
+    background-color: beige;
+}
+#h1{
+   font-family: 'Mountains of Christmas', cursive;
+    font-size: 75px;
+    text-align: center;
+}
+#baakk{
+    align-content: center;
+}
+.h2{
+    font-family: 'Mountains of Christmas', cursive;
+}
+#laomid{
+    text-align: center;
+}
+.teext{
+    font-family: 'Mountains of Christmas', cursive;
+    font-size: 50px;
+}
+.immi{
+    height:300px;
+    width: 450px;
+    border-radius: 275px;
+}
+.tax{
+    font-family: 'Mountains of Christmas', cursive;
+    font-size: 20px;
+}
